@@ -1,0 +1,18 @@
+Demo Regarding Assesment Test
+
+
+1. downloaded three CSV files from given url
+
+2. Created Three empty Tables based on CSV file names and columns
+team
+task
+team_skill
+
+3.created two java classes to read the above CSV fiels
+
+4.Data stored from CSV file to DB tables (team, task, Team_Skill)
+
+
+-------------------------------------------
+1.created task Assignment Java class and written logic how to assign the task to Group as per skill mentioned in the db table
+
